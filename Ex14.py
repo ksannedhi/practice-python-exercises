@@ -1,3 +1,5 @@
+'''Write a program (function!) that takes a list and returns a new list that contains all the elements of the first list minus all the duplicates.'''
+
 def using_lists(input_list):
     output_list1 = []
     for num in input_list:
