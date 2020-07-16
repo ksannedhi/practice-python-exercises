@@ -1,1 +1,1 @@
-# practice-python-exercises
+Exercises from the Practice Python website.
